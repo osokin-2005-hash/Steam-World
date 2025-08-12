@@ -6,7 +6,7 @@ body {
     margin: 0;
     padding: 0;
     /* Замените путь на свой */
-    background-image: url('./images/metal-bg.jpg');
+    background-image: url('Steam-World/images/gear.png');
     background-attachment: fixed;
     background-size: cover;
 }
@@ -49,7 +49,7 @@ body {
     width: 60px;
     height: 60px;
     /* Укажите свой путь к шестерёнке */
-    background-image: url('./images/gear.png');
+    background-image: url('Steam-World/images/gear.png');
     background-size: contain;
     animation: rotate 5s linear infinite;
 }
@@ -134,4 +134,5 @@ body {
     border-top: 3px solid #d4af37;
     margin-top: 20px;
 }
+
 
