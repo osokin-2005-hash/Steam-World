@@ -6,7 +6,7 @@ body {
     margin: 0;
     padding: 0;
     /* Замените путь на свой */
-    background-image: url('./images/iron_texture91.jpg');
+    background-image: url('./images/fon.png');
     background-attachment: fixed;
     background-size: cover;
 }
@@ -134,6 +134,7 @@ body {
     border-top: 3px solid #d4af37;
     margin-top: 20px;
 }
+
 
 
 
